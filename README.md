@@ -1,7 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on personal chatting app<br><br>🌱 I’m currently learning next.js<br><br>👯 I’m looking to collaborate on complex projects<br><br>🤝 I’m looking for help with job<br><br>👨‍💻 All of my projects are available at https://github.com/dawood7233<br><br>💬 Ask me about HTML,CSS, JavaScript,React.js,Node.js,Express.js.<br><br>📫 How to reach me m.dawood7233@gmail.com
-## 🚀 My Animated Demo:
-![Animated Video]([https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTd3Z2UxbzJqM2pyN2R0M2Z6dGswdTZsMG41NWhwZGZtcGlqMzZvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HyJfZ5JCM7MaKfd4el/giphy.gif)) <!-- Replace this link with your own animated GIF or video -->
+🔭 I’m currently working on personal chatting app<br><br>🌱 I’m currently learning next.js<br><br>👯 I’m looking to collaborate on complex projects<br><br>🤝 I’m looking for help with job<br><br>👨‍💻 All of my projects are available at https://github.com/dawood7233<br><br>💬 Ask me about HTML,CSS, JavaScript,React.js,Node.js,Express.js.<br><br>📫 How to reach me m.dawood7233@gmail.com <br><br>
+![Animated Video](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTd3Z2UxbzJqM2pyN2R0M2Z6dGswdTZsMG41NWhwZGZtcGlqMzZvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HyJfZ5JCM7MaKfd4el/giphy.gif) <!-- Replace this link with your own animated GIF or video -->
 
 ## 🎮 Play a Game:
 Play a **Snake Game** directly in your browser!  
